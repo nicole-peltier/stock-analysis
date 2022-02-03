@@ -32,9 +32,12 @@ The purpose of refactoring the code to have multiple separate small for loops in
 
 ### Comparing Stock Performance between 2017 and 2018
 After writing the necessary code, one can now quickly analyze the results of the stocks in 2017 and 2018. The written code executes a table including three columns: the ticker, total daily volume, and the return. For 2017 the results were as followed:
+#### 2017 Stocks Analysis 
 ![stocks-2017-image](https://github.com/nicole-peltier/stock-analysis/blob/main/2017%20stocks.png)
 
 Looking at this table, one can see all of the stocks except TERP have a positive return rate. For 2018 the results were as followed:
+
+#### 2018 Stocks Analysis
 ![stocks-2018](https://github.com/nicole-peltier/stock-analysis/blob/main/2018%20stocks.png)
 
 Comparitively, a majority of stocks in 2018 saw a drastic decrease in return rates. Although ENPH still has a positive return rate, this stock when down 47.6%. However, two stocks saw in increase in return rates. These were RUN and TERP.
